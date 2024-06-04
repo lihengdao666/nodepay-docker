@@ -1,0 +1,1 @@
+chrome.storage.local.set({ np_token: "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMjQ3NTUyMjI5NjgyOTcwNjI0IiwiaWF0IjoxNzE3NTEwODI1LCJleHAiOjE3MTg3MjA0MjV9.EMIvnFNy09VMyIc6JxQuxjds-DyTRcRfC0UgRlPM2XFFdFm4qJAAjtup7ArQ-eq7B63Cow-a8uuCQ1_I_K3vbA" });
